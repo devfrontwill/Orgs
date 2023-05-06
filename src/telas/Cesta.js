@@ -34,6 +34,7 @@ export default function Cesta() {
                 R$ 40R$
             </Text>
         </View>
+        
     </>
 
 }
