@@ -11,7 +11,6 @@ export default function Cesta() {
         <Text style={estilos.titulo} >
             Detalhe da Cesta
         </Text>
-
         <View style={estilos.cesta}>
             <Text style={estilos.nome}>
                 Cesta de Verduras
@@ -34,7 +33,7 @@ export default function Cesta() {
                 R$ 40R$
             </Text>
         </View>
-        
+
     </>
 
 }
