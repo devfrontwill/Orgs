@@ -35,7 +35,6 @@ export default function Cesta() {
         </View>
 
     </>
-
 }
 
 const estilos = StyleSheet.create({
